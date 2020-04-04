@@ -1,0 +1,14 @@
+{
+        "azDevOps": {
+            "appId": "appId",
+            "appSecret": "appSecret",
+            "clientSecret": "clientSecret",
+            "authorizeUrl": "authorizeUrl",
+            "accessTokenUrl": "accessTokenUrl",
+            "authorizedScopes": [
+                "scope1",
+                "scope2",
+                "scope3"
+            ]
+        }
+}
